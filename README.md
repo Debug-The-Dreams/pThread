@@ -12,35 +12,40 @@
   *Passing the Baton: Discover how to pass arguments to threads and retrieve their return values for flexible, interactive tasks. You can use below link to learn more on passing arguments and capturing return value with pThread.*
   [02 Mastering Threads: Passing Arguments & Capturing Return Values Made Easy](https://www.youtube.com/watch?v=FHKiAiiquc0&list=PLimjDCi9L3dQu17UB7JbyGXp1EcqbNbbN&index=3).
 
-- **03_ProcessVsThreads**  
+- **[03 Process vs Thread: Real-World Examples & Use Cases](https://www.youtube.com/watch?v=ikXD8KqrwvM&list=PLimjDCi9L3dQu17UB7JbyGXp1EcqbNbbN&index=3)**  
   *Battle of the Titans: Dive into the differences between processes and threads, understanding their strengths, weaknesses, and use cases.*
 
-- **04_Race_Condition**  
+- **[04 Understanding Race Conditions: Real-World Scenarios](https://www.youtube.com/watch?v=93NfKkfG7uo&list=PLimjDCi9L3dQu17UB7JbyGXp1EcqbNbbN&index=4)**  
   *The Great Race: Explore how race conditions occur, why they’re dangerous, and how to detect and prevent them in your code.*
 
-- **05_Mutex**  
+- **[05 Mutex in Programming: How It Works & Why You Need It : Real-World Scenarios](https://www.youtube.com/watch?v=WPLVXzm7Ifs)**  
   *Lock It Down: Master the use of mutexes to ensure safe access to shared resources and prevent data corruption in multithreaded environments.*
 
-- **06_TryLock**  
-  *Non-Blocking Power: Implement try-lock mechanisms to attempt resource locking without blocking threads, improving responsiveness and efficiency.*
+- **[06 Lock vs Trylock Explained: Which Should You Use?](https://youtu.be/KXHwFle2ZEU)**  
+  *Confused about when to use lock or trylock in your multithreaded programs? In this video, we break down the key differences between lock and trylock, show real-world examples, and explain how each affects thread synchronization and performance. Learn how to avoid deadlocks, improve efficiency, and choose the right tool for your code. Perfect for programmers and computer science enthusiasts!*
 
 - **07_Barriers**  
   *Synchronize Like a Pro: Use barriers to coordinate multiple threads, ensuring they reach synchronization points before proceeding.*
 
-- **08_Conditional_Variable**  
+- **[07 Condition Variables Explained: The Secret to Thread Communication](https://youtu.be/2uQD1Igq9UQ)**  
   *Wait for It: Harness conditional variables to enable threads to wait for specific conditions, enabling powerful synchronization patterns.*
 
-- **09_Odd_Even**  
+- **[08 Odd & Even Numbers with Threads: Condition Variable Magic!](https://youtu.be/-WTMYvuefXg)**  
   *Threaded Numbers Game: Solve the odd-even problem using threads, demonstrating precise coordination and alternation between tasks.*
 
-- **10_DeadLock**  
+- **[09 Avoiding Deadlocks: The Secret of Recursive Mutexes Revealed](https://youtu.be/hSRh4vdhkdE)**  
   *Caught in a Trap: Understand how deadlocks happen, see real examples, and learn strategies to avoid these concurrency pitfalls.*
 
-- **11_Semaphore**  
+- **[10 Semaphore Magic: Control Threads Like a Pro!](https://youtu.be/20Kb68cqHXw)**  
   *Traffic Control: Use semaphores to manage access to limited resources, controlling how many threads can enter critical sections at once.*
 
-- **12_Consumer_Producer**  
+- **[12 Producer-Consumer Problem Explained: Master the Bounded Buffer!](https://youtu.be/iuASIVZ0VqY)**  
   *Perfect Harmony: Implement the classic producer-consumer problem, balancing production and consumption with thread-safe queues.*
 
-- **13_Reader_Writers_Problem**  
+- **[13 Mutual Exclusion Mastery: The Readers-Writers Solution](https://youtu.be/egOEQbTc68s)**  
   *Read or Write? Tackle the reader-writer problem, allowing multiple readers or exclusive writers to access shared data efficiently.*
+
+  Follow Us On:
+  - [LinkedIn](https://www.linkedin.com/company/107562504)
+  - [Facebook](https://www.facebook.com/profile.php?id=61577571400204)
+  - [GitHub](https://github.com/Debug-The-Dreams)
