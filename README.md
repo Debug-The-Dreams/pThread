@@ -3,13 +3,14 @@
 
  Below is directory structure inside this repo, it matches with video uploaded in playlist [Multithreading in C programming](https://www.youtube.com/playlist?list=PLimjDCi9L3dQu17UB7JbyGXp1EcqbNbbN).
 
-- **[01_CreateThread](https://youtu.be/77WhaETpsnc?list=PLimjDCi9L3dQu17UB7JbyGXp1EcqbNbbN)**  
+- **[01 Introduction to multithreading in C programming](https://youtu.be/77WhaETpsnc?list=PLimjDCi9L3dQu17UB7JbyGXp1EcqbNbbN)**  
   *Kickstart Multithreading: Learn how to create and launch threads in C, setting the foundation for concurrent programming.*
   *You can use below link to learn more on creating threads with pThread.*
   [01 Introduction to multithreading in C programming](https://youtu.be/77WhaETpsnc?list=PLimjDCi9L3dQu17UB7JbyGXp1EcqbNbbN).
 
-- **02_ThreadArgsAndReturnValue**  
-  *Passing the Baton: Discover how to pass arguments to threads and retrieve their return values for flexible, interactive tasks.*
+- **[02 Mastering Threads: Passing Arguments & Capturing Return Values Made Easy](https://www.youtube.com/watch?v=FHKiAiiquc0&list=PLimjDCi9L3dQu17UB7JbyGXp1EcqbNbbN&index=3)**  
+  *Passing the Baton: Discover how to pass arguments to threads and retrieve their return values for flexible, interactive tasks. You can use below link to learn more on passing arguments and capturing return value with pThread.*
+  [02 Mastering Threads: Passing Arguments & Capturing Return Values Made Easy](https://www.youtube.com/watch?v=FHKiAiiquc0&list=PLimjDCi9L3dQu17UB7JbyGXp1EcqbNbbN&index=3).
 
 - **03_ProcessVsThreads**  
   *Battle of the Titans: Dive into the differences between processes and threads, understanding their strengths, weaknesses, and use cases.*
